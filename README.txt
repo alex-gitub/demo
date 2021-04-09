@@ -17,5 +17,5 @@ FROM gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:d77280905
 FROM gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:268bd1383b56ba7b9acf391c681f7a63780c22dcd4555c2f4a7b61ec6
 
 
-# 重要
+# knative
 安装参考链接：https://zhuanlan.zhihu.com/p/141551023
