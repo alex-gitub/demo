@@ -6,7 +6,7 @@ FROM gcr.io/knative-releases/knative.dev/serving/cmd/webhook
 
 
 
-git push -u -f origin master
+
 
 
 
